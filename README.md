@@ -1,30 +1,23 @@
-# MADAEN PropTech Platform
+# MADAEN — Product Showcase
 
-An interactive product demo for a multi-tenant real-estate operations platform built for GCC teams. MADAEN connects property inventory, incoming demand, lead qualification, assignments, tasks and operating analytics in one Arabic-first workspace.
+**MADAEN** is a concept for a connected, Arabic-first real-estate workplace, presented by **Pixology**.
 
-## Why it exists
+This repository is a **public, illustrative interface demo**. It is not the production application or its engineering workspace.
 
-Real-estate teams often run core workflows across spreadsheets, WhatsApp and disconnected listing portals. MADAEN turns those fragments into an auditable operating system with role-based access, organization and branch boundaries, and a unified request center.
+## What the demo illustrates
 
-## Product scope
+- A clear overview of property portfolios
+- Incoming enquiries and follow-up views
+- Team-friendly task and activity presentation
+- An approachable, Arabic-first experience
 
-- Multi-organization and branch-aware operations
-- Property inventory and publishing lifecycle
-- Lead, demand and matching workflows
-- Assignment, task and follow-up accountability
-- Arabic-first responsive UX
-- Supabase-ready RLS and RPC architecture
-- WhatsApp intake integration roadmap
-
-## Run locally
+## Run the showcase locally
 
 ```bash
 npm install
 npm run start
 ```
 
-## Status
-
-Product demo and active venture build. This public repository contains a showcase interface, not private production code or customer data.
+**All displayed names, numbers, activities and statuses are fictional examples.** Nothing in this public showcase represents customer records, internal roadmaps, real-time operating metrics, private source projects or live service connections.
 
 Built by **Pixology** — Venture Engineering for Real-World Businesses.
